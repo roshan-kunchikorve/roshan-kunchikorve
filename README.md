@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats-kappa-one-19.vercel.app/api?username=roshan-kunchikorve&custom_title=Stats&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Statsx"  />
+  <img src="https://github-readme-stats-kappa-one-19.vercel.app/api?username=roshan-kunchikorve&custom_title=Stats&show_icons=true&theme=radical&hide_border=false" height="150" alt="GitHub Statsx"  />
   <img src="https://streak-stats.demolab.com?user=roshan-kunchikorve&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/roshan-kunchikorve/roshan-kunchikorve/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="140" alt="languages graph"  />
 </div>
